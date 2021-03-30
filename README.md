@@ -69,8 +69,9 @@ For further details of this setup, please refer to the paper:
 @InProceedings{lovon:ecir2021-catfog,
   author = {Jesús Lovón-Melgarejo, Laure Soulier, Karen Pinel-Sauvagnat and Lynda Tamine},
   title = {Studying the Catastrophic Forgetting Problem in Neural Ranking Models},
-  booktitle = {{ECIR} 2021},
-  year = {2021}
+  year = {2021},
+  booktitle = {Advances in  Information Retrieval},
+  pages={375--390}
 }
 ```
  
